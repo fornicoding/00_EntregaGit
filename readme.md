@@ -1,6 +1,6 @@
 ## Parte 1
 ![imagen1](capturas/Captura1.png)
-Aquí podemos ver cómo me muevo al Escritorio, creao la carpeta 00_Lab_Git, entro en ella, e inicializo un repositorio local.
+Aquí podemos ver cómo me muevo al Escritorio, creo la carpeta 00_Lab_Git, entro en ella, e inicializo un repositorio local.
 ---
 ## Parte 2
 ![imagen2](capturas/Captura2.png)
